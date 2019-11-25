@@ -3,8 +3,8 @@
 ##################################################
 
 ### Please cite:
-A High Resolution Melting Analysis (HRM)-based Genotyping Toolkit for Chilling Requirement in Peach (Prunus persica)
-(Will be publish in 2019)
+# A High Resolution Melting Analysis (HRM)-based Genotyping Toolkit for Chilling Requirement in Peach (Prunus persica)
+# (Will be publish in 2019)
 
 ### update
 ## v.8	2019.11.25
